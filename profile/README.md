@@ -91,7 +91,7 @@ Interface de edição
 
 O docente permanece envolvido no processo, podendo selecionar informações, fornecer materiais de referência e revisar ou modificar o conteúdo produzido.
 
-Dados
+## Dados
 
 O projeto utiliza dados de debates públicos disponibilizados pelo conjunto PublicHearingBR, provenientes de audiências públicas da Câmara dos Deputados.
 
@@ -107,7 +107,7 @@ As configurações relacionadas aos modelos e às credenciais devem ser fornecid
 
 As chaves de API e outras credenciais não devem ser incluídas no repositório.
 
-Observações sobre reprodutibilidade
+## Observações sobre reprodutibilidade
 
 Este kit disponibiliza o código necessário para executar o protótipo, os materiais utilizados no experimento e reproduzir o fluxo de funcionamento apresentado no trabalho.
 
