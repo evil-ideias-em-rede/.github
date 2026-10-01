@@ -4,6 +4,8 @@ Este repositório reúne os componentes necessários para executar e explorar:
 1. O protótipo do Contraponto, uma plataforma baseada em agentes de inteligência artificial para apoiar docentes na criação de materiais didáticos a partir de fontes primárias.
 2. O experimento realizado com professores do Ensino Fundamental II e Médio para medir a viabilidade de adotar a ferramenta Contraponto para incluir e/ou facilitar a inclusão de audiências públicas como fontes primárias para atividades e planos de aula focados em cidadania e temas relevantes para a população.
 
+### A plataforma desenvolvida pode ser acessada via https://evil-levi.01424210.xyz/
+
 O kit é composto por quatro repositórios, que operam partes diferentes do sistema e do experimento:
 
 * **`back-end`** — API, agentes de inteligência artificial, autenticação, persistência e serviços de apoio à aplicação;
